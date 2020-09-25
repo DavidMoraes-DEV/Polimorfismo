@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.exe
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.deps.json
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\bin\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.dll
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.pdb
+C:\ProgramasCSharp\ConceitoDePolimorfismo\Polimorfismo\Polimorfismo\obj\Debug\netcoreapp3.1\Polimorfismo.genruntimeconfig.cache
